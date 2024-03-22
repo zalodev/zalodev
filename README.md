@@ -1,6 +1,16 @@
+<h1 align="center">👋 Hello! I'm Gonzalo Cadenas</h1>
 
-<h2> Hey there! I'm Gonzalo Cadenas.</h2>
+<p align="center">
+I'm a Fullstack Developer, Scrum master and Intermediate Azure and Azure DevOps Learner. 
+</p>
 
+<p align="center">
+I have extensive knowledge in programming languages, database management, and cloud development. Skilled in continuous integration and deployment, code debugging, and performance optimization, as well as agile project management with Scrum. I am a kind, constantly learning, honest, and ingenious individual. Seeking a challenging role in an innovative company to grow both personally and professionally.   
+</p>
+
+<p align="center"> 
+When I'm not coding find me learning new things about history, economy, nutrition or arts.
+</p>
 
 
 <a href="https://github.com/zalodev">
