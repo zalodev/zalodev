@@ -16,7 +16,7 @@ When I'm not coding find me learning new things about history, economy, nutritio
 
 ### Quick stats about me
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zalodev&theme=buefy&show_icons=true" />&nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalodev&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zalodev&theme=buefy&show_icons=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalodev&theme=buefy&layout=compact" />
 </div>
 
 
