@@ -16,10 +16,14 @@ When I'm not coding find me learning new things about history, economy, nutritio
 ### My Skills 🌐
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,cs,dotnet,angular,ts,spring&theme=light)](https://skillicons.dev)
+
+<img alt="LinkedIn" width="100em" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"><img alt="LinkedIn" width="100em" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"><img alt="LinkedIn" width="100em" src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo.png">
  
 ### Tools 🛠️
 
 [![My Tools](https://skillicons.dev/icons?i=azure,visualstudio,vscode,docker,github,idea,webstorm&theme=light)](https://skillicons.dev)
+
+
 
 ### ⭐️ Github Stats
 
