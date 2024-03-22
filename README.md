@@ -5,7 +5,7 @@
 
 <a href="https://github.com/zalodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zalodev&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalodev&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalodev&theme=buefy&layout=compact" />
 </a>
 
 <br/>
