@@ -28,7 +28,7 @@ When I'm not coding find me learning new things about history, economy, nutritio
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=zalodev&show_icons=true&count_private=true)](https://github.com/zalodev)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=zalodev&show_icons=true&count_private=true)](https://github.com/zalodev)
 
-### :man_technologist: Github Repos / projects
+### :man_technologist: Github Repos / Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
